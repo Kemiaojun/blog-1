@@ -57,14 +57,12 @@ export default function Page() {
             <TypedText>whoami</TypedText>
             <TypedContent>
               <p>
-                Hi, I&apos;m <strong>ZHANG YU</strong>, in Chinese my name is{' '}
-                <strong>张宇</strong>.
+                Hi, I&apos;m <strong>Ke Miao</strong>, in Chinese my name is{' '}
+                <strong>克喵爱吃卤面</strong>.
               </p>
               <p>
-                I am a senior front-end engineer who have been involving in
-                front-end development since <strong>2018</strong>, focusing on
-                building aesthetically pleasing and highly interactive user
-                interfaces by <code>React</code>.
+                我是一个致力于分享资源和生活的普通人~
+                <code>React</code>.
               </p>
               <p>
                 I have amassed substantial practical experience in the{' '}
