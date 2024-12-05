@@ -63,11 +63,11 @@ export default function Page() {
               <p>
                 我是一个致力于分享资源和生活的普通大学牲~在 <strong>2024</strong>年初开始有这个想法,
                 更新不定时，不用iOS，所以不会特意找，有需求的可以通过下方的联系方式(最好是邮箱或电报),
-                我会尽力找，不保成功，兴趣来源<code>[好软分享](https://github.com/yoyodadada/haoruanfenxiang)</code>。
+                我会尽力找，不保成功，兴趣来源<code><a href='https://t.me/haoruanfenxiang'>好软分享</a></code>。
               </p>
               <p>
                 我从他/她的分享下解决了很多麻烦，十分感谢{' '}
-                <code>[好软分享](https://github.com/yoyodadada/haoruanfenxiang)</code>。
+                <code><a href='https://t.me/haoruanfenxiang'>好软分享</a></code>。
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>ls</TypedText>
@@ -180,7 +180,7 @@ export default function Page() {
                 <code>代码</code>,等等。
               </p>
               <p>
-                我不定时更新博客文章，不代表主要发布在<code>电报</code>的所有内容，缺什么可以去<code>[频道](https://t.me/kemiaofx_me)</code>看！
+                我不定时更新博客文章，不代表主要发布在<code>电报</code>的所有内容，缺什么可以去<code><a href='https://t.me/kemiaofx_me'>频道</a></code>看！
               </p>
             </TypedContent>
             <TypedText>经历</TypedText>
@@ -190,44 +190,27 @@ export default function Page() {
                 没什么好说的，还没工作，只是打过几份兼职，不会破解，逆向等等，资源有bug找作者。
               </p>
             </TypedContent>
-            <TypedText>skills</TypedText>
+            <TypedText>技能</TypedText>
             <TypedContent>
-              <p>
-                I excel in <code>JavaScript</code> and <code>TypeScript</code>,
-                proficiently utilizing <code>CSS</code> to create visually
-                appealing and responsive web pages.
-              </p>
-              <p>
-                I have a deep understanding of <code>React</code> and have
-                explored other popular frameworks as well. Currently, my work
-                primarily involves using <code>Next.js</code>, and I have
-                extensive experience with <code>App Router</code>.
-              </p>
-              <p>
-                In addition to front-end development, I am also familiar with
-                backend development using tools such as <code>Prisma</code>,{' '}
-                <code>NestJS</code>, and <code>GraphQL</code>.
-              </p>
-              <p>
-                Furthermore, I have experience in mobile App development using
-                <code>React Native</code> and <code>SwiftUI</code>.
-              </p>
+            <p>
+                自动化学生一枚，分享资源纯兴趣，电气一方面可以找我问问（不保会/笑死）。
+              </p
             </TypedContent>
-            <TypedText>Contact</TypedText>
+            <TypedText>联系方式</TypedText>
             <TypedContent>
               <div className='my-4 flex items-center'>
                 <p className='basis-1/4 text-center font-semibold'>Social</p>
                 <div className='grid flex-1 grid-cols-2 justify-items-start gap-2'>
-                  <a href='https://github.com/zhangyu1818'>Github</a>
-                  <a href='https://twitter.com/zhangyu1818'>Twitter</a>
-                  <a href='https://juejin.cn/user/4089838986339927'>掘金</a>
-                  <a href='https://dev.to/zhangyu1818'>Dev.to</a>
-                  <a href='https://medium.com/@zhangyu1818'>Medium</a>
+                <a href='https://github.com/Kemiaojun'>Github</a>
+                  <a href='https://twitter.com/kemiaofx'>Twitter</a>
+                  <a href='https://t.me/KemiaoJun'>Telegram账号</a>
+                  <a href='https://t.me/kemiaofx_me'>电报频道</a>
+                  <a href='https://medium.com/aqwere123@163.com'>Medium</a>
                 </div>
               </div>
               <div className='flex items-center'>
                 <p className='basis-1/4 text-center font-semibold'>Email</p>
-                <a href='mailto:hey@zhangyu.dev'>hey@zhangyu.dev</a>
+                <a href='mailto:aqwere123@163.com'>Email</a>
               </div>
             </TypedContent>
           </Typed>
