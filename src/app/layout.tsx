@@ -38,28 +38,28 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  applicationName: 'zhangyu.dev',
+  applicationName: '克喵的小站',
   authors: {
-    name: 'zhangyu1818',
-    url: 'https://github.com/zhangyu1818',
+    name: '克喵爱吃卤面',
+    url: 'https://github.com/Kemiaojun',
   },
-  creator: 'zhangyu1818',
+  creator: '克喵爱吃卤面',
   description:
-    'Dive into front-end development with a focus on React, cutting-edge frameworks, JavaScript, TypeScript, Swift, Animation and more',
+    '一个致力于分享资源和生活的人',
   generator: 'Next.js',
   keywords: [
-    'Front-end Development',
-    'React',
-    'JavaScript',
-    'TypeScript',
-    'CSS',
-    'Animation',
-    'Swift',
+    '资源',
+    '工具',
+    '博客',
+    '分享',
+    '软件',
+    '免费',
+    '开源',
   ],
-  publisher: 'zhangyu1818',
+  publisher: '克喵爱吃卤面',
   title: {
-    absolute: 'zhangyu.dev',
-    template: '%s | zhangyu.dev',
+    absolute: '克喵的小站',
+    template: '%s | Ke Miao Blog',
   },
   verification: {
     google: 'ULSANpODFw1TULe1QTOUFT8z8QXPVIA1MRTMQL7PAbw',
@@ -78,17 +78,17 @@ export default function RootLayout({ children }) {
           href='/icon/favicon-32x32.png'
           rel='icon'
           sizes='32x32'
-          type='image/png'
+          type='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412050918389.vnd.microsoft.icon'
         />
         <link
           href='/icon/favicon-16x16.png'
           rel='icon'
           sizes='16x16'
-          type='image/png'
+          type='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412030700752.vnd.microsoft.icon'
         />
         <link
           href='/icon/apple-touch-icon.png'
-          rel='apple-touch-icon'
+          rel='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412042213560.jpg'
           sizes='180x180'
         />
         <link href='/site.webmanifest' rel='manifest' />
@@ -96,13 +96,13 @@ export default function RootLayout({ children }) {
           href='/icon/android-chrome-192x192.png'
           rel='icon'
           sizes='192x192'
-          type='image/png'
+          type='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412042213560.jpg'
         />
         <link
           href='/icon/android-chrome-512x512.png'
           rel='icon'
           sizes='512x512'
-          type='image/png'
+          type='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412042213560.jpg'
         />
         <DarkToggleScript />
       </head>
