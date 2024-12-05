@@ -183,18 +183,11 @@ export default function Page() {
                 我不定时更新博客文章，不代表主要发布在<code>电报</code>的所有内容，缺什么可以去<code>[频道](https://t.me/kemiaofx_me)</code>看！
               </p>
             </TypedContent>
-            <TypedText>experience</TypedText>
+            <TypedText>经历</TypedText>
             <TypedContent>
-              <p>Until now, I have worked for two companies only.</p>
+            <p>我到今天为止还在南京求学。</p>
               <p>
-                The first company focused on developing high-performance and
-                versatile dialing systems and management platforms for internal
-                enterprise use, along with various mini-programs and Apps.
-              </p>
-              <p>
-                The second company specialized in creating visually appealing
-                and high-performance e-commerce platforms and Apps for
-                cross-border trade.
+                没什么好说的，还没工作，只是打过几份兼职，不会破解，逆向等等，资源有bug找作者。
               </p>
             </TypedContent>
             <TypedText>skills</TypedText>
