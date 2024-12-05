@@ -47,28 +47,27 @@ export default function Page() {
             <Dot className='cursor-not-allowed bg-green-500' />
           </span>
           <span className='text-center text-gray-400'>
-            zhangyu@MacBook-Air:~
+            克喵爱吃卤面:~
           </span>
           <span className='text-end text-gray-500'>⌥⌘1</span>
         </header>
         <div className='min-h-60 flex-1 overflow-y-auto p-2 text-sm text-gray-200 duration-300 animate-in fade-in'>
-          <p className='mb-2'>Last login: {lastBuildTime} on ttys003</p>
+          <p className='mb-2'>Last login: {lastBuildTime} on 2024-12-5</p>
           <Typed>
             <TypedText>whoami</TypedText>
             <TypedContent>
               <p>
-                Hi, I&apos;m <strong>ZHANG YU</strong>, in Chinese my name is{' '}
-                <strong>张宇</strong>.
+                Hi, I&apos;m <strong>Ke Miao</strong>, in Chinese my name is{' '}
+                <strong>克喵爱吃卤面</strong>.
               </p>
               <p>
-                I am a senior front-end engineer who have been involving in
-                front-end development since <strong>2018</strong>, focusing on
-                building aesthetically pleasing and highly interactive user
-                interfaces by <code>React</code>.
+                我是一个致力于分享资源和生活的普通大学牲~在 <strong>2024</strong>年初开始有这个想法,
+                更新不定时，不用iOS，所以不会特意找，有需求的可以通过下方的联系方式(最好是邮箱或电报),
+                我会尽力找，不保成功，兴趣来源<code>[好软分享](https://github.com/yoyodadada/haoruanfenxiang)</code>。
               </p>
               <p>
-                I have amassed substantial practical experience in the{' '}
-                <code>React</code> technology stack.
+                我从他/她的分享下解决了很多麻烦，十分感谢{' '}
+                <code>[好软分享](https://github.com/yoyodadada/haoruanfenxiang)</code>。
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>ls</TypedText>
@@ -85,14 +84,8 @@ export default function Page() {
             <TypedText afterDelay={700}>opensource</TypedText>
             <TypedContent>
               <p>
-                I am passionate about contributing to the open-source community,
-                having made multiple contributions to well-known projects such
-                as <code>Ant Design</code>.
-              </p>
-              <p>
-                Additionally, I have developed and maintained lots of
-                open-source projects, which have been successfully published on
-                npm and collectively garnered nearly <i>20,000</i> downloads.
+                我只搬运资源，作者注明禁止搬运的不搬，有作者后来不想分享了可以通过下方的联系方式来告知我，
+                看到会第一时间删除文件，付费资源作者授权的话会分享，作者那抽成，不论同不同意，还是感谢作者的支持。
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>projects</TypedText>
@@ -100,112 +93,106 @@ export default function Page() {
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/react-markdown-toc'>
-                      react-markdown-toc
+                    <a href='https://github.com/Kemiaojun/kemiaofx'>
+                      Github分享资源项目
                     </a>
                   </strong>
                 </li>
-                <li>Generating a Table of Contents (TOC) from Markdown.</li>
+                <li>作者所有个人的网址和软件在网盘的位置。</li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/from-to'>
-                      from-to.js
+                    <a href='https://github.com/Kemiaojun/astropaper'>
+                      astro博客项目(未完善)
                     </a>
                   </strong>
                 </li>
-                <li>Transitioning from one value to another.</li>
+                <li>一个astro博客。</li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/react-server-only-context'>
-                      react-server-only-context
+                    <a href='https://github.com/Kemiaojun/BLOG'>
+                      NotionNext博客项目(未完善)
                     </a>
                   </strong>
                 </li>
                 <li>
-                  A straightforward alternative for using context within React
-                  Server Components.
-                </li>
-              </ul>
-              <ul>
-                <li>
-                  <strong>
-                    <a href='https://github.com/zhangyu1818/tw-styled'>
-                      tw-styled
-                    </a>
-                  </strong>
-                </li>
-                <li>
-                  Create Tailwind CSS-styled React components with ease using
-                  tw-styled.
+                  小白博客项目，正在完善中。
                 </li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/use-flip'>
-                      use-flip
+                    <a href='https://github.com/Kemiaojun/BBlog'>
+                      hexo博客项目(未完善)
                     </a>
                   </strong>
                 </li>
                 <li>
-                  Effortless FLIP animations with a React Hook for smoother
-                  transitions.
+                  anzhiyu大佬主题
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <strong>
+                    <a href='https://github.com/Kemiaojun/kemiaoTG'>
+                      TG资源站
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  一个和电报频道联动的博客
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <strong>
+                    <a href='https://github.com/Kemiaojun/Kemiaojun.github.io'>
+                      github简易博客项目(未完善)
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  随便玩玩
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <strong>
+                    <a href='https://github.com/lumianya/lumianya.github.io'>
+                      魔改hexo博客项目(未完善)
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  挺好用的
                 </li>
               </ul>
             </TypedContent>
             <TypedText>blog-info</TypedText>
             <TypedContent>
               <p>
-                I am keen on sharing knowledge as well as writing articles and
-                tutorials regularly, covering <code>JavaScript</code>,
-                <code>TypeScript</code>, <code>React</code> source-code,{' '}
-                <code>CSS</code>, and animation.
+                我曾经也会为搜索资源困难而难过，这个项目应运而生，包括<code>JAndroid</code>,
+                <code>Windows</code>, <code>AI</code>, <code>AI</code>, <code>iOS</code>,
+                <code>建站</code>, <code>工具</code>{' '}
+                <code>代码</code>,等等。
               </p>
               <p>
-                My articles have been read over <i>150,000</i> times.
-                Previously, I primarily wrote in Chinese, but currently, my goal
-                is to write articles in English.
+                不定时更新博客文章，不代表主要发布在<code>电报</code>的所有内容，缺什么可以去<code>[频道](https://t.me/kemiaofx_me)</code>看！
               </p>
             </TypedContent>
             <TypedText>experience</TypedText>
             <TypedContent>
-              <p>Until now, I have worked for two companies only.</p>
+              <p>我到今天为止还在南京求学。</p>
               <p>
-                The first company focused on developing high-performance and
-                versatile dialing systems and management platforms for internal
-                enterprise use, along with various mini-programs and Apps.
-              </p>
-              <p>
-                The second company specialized in creating visually appealing
-                and high-performance e-commerce platforms and Apps for
-                cross-border trade.
-              </p>
+                没什么好说的，还没工作，只是打过几份兼职，不会破解，逆向等等，资源有bug找作者。
             </TypedContent>
             <TypedText>skills</TypedText>
             <TypedContent>
               <p>
-                I excel in <code>JavaScript</code> and <code>TypeScript</code>,
-                proficiently utilizing <code>CSS</code> to create visually
-                appealing and responsive web pages.
-              </p>
-              <p>
-                I have a deep understanding of <code>React</code> and have
-                explored other popular frameworks as well. Currently, my work
-                primarily involves using <code>Next.js</code>, and I have
-                extensive experience with <code>App Router</code>.
-              </p>
-              <p>
-                In addition to front-end development, I am also familiar with
-                backend development using tools such as <code>Prisma</code>,{' '}
-                <code>NestJS</code>, and <code>GraphQL</code>.
-              </p>
-              <p>
-                Furthermore, I have experience in mobile App development using
-                <code>React Native</code> and <code>SwiftUI</code>.
+                自动化学生一枚，分享资源纯兴趣，电气一方面可以找我问问（不保会/笑死）。
               </p>
             </TypedContent>
             <TypedText>Contact</TypedText>
@@ -213,16 +200,16 @@ export default function Page() {
               <div className='my-4 flex items-center'>
                 <p className='basis-1/4 text-center font-semibold'>Social</p>
                 <div className='grid flex-1 grid-cols-2 justify-items-start gap-2'>
-                  <a href='https://github.com/zhangyu1818'>Github</a>
-                  <a href='https://twitter.com/zhangyu1818'>Twitter</a>
-                  <a href='https://juejin.cn/user/4089838986339927'>掘金</a>
-                  <a href='https://dev.to/zhangyu1818'>Dev.to</a>
-                  <a href='https://medium.com/@zhangyu1818'>Medium</a>
+                  <a href='https://github.com/Kemiaojun'>Github</a>
+                  <a href='https://twitter.com/kemiaofx'>Twitter</a>
+                  <a href='https://t.me/KemiaoJun'>Telegram账号</a>
+                  <a href='https://t.me/kemiaofx_me'>电报频道</a>
+                  <a href='https://medium.com/aqwere123@163.com'>Medium</a>
                 </div>
               </div>
               <div className='flex items-center'>
                 <p className='basis-1/4 text-center font-semibold'>Email</p>
-                <a href='mailto:hey@zhangyu.dev'>hey@zhangyu.dev</a>
+                <a href='mailto:aqwere123@163.com'>hey@zhangyu.dev</a>
               </div>
             </TypedContent>
           </Typed>
