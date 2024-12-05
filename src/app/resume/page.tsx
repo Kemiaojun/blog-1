@@ -52,23 +52,22 @@ export default function Page() {
           <span className='text-end text-gray-500'>⌥⌘1</span>
         </header>
         <div className='min-h-60 flex-1 overflow-y-auto p-2 text-sm text-gray-200 duration-300 animate-in fade-in'>
-          <p className='mb-2'>Last login: {lastBuildTime} on ttys003</p>
+          <p className='mb-2'>Last login: {lastBuildTime} on 2024-12-05</p>
           <Typed>
             <TypedText>whoami</TypedText>
             <TypedContent>
-              <p>
-                Hi, I&apos;m <strong>ZHANG YU</strong>, in Chinese my name is{' '}
-                <strong>张宇</strong>.
+            <p>
+                Hi, I&apos;m <strong>Ke Miao</strong>, in Chinese my name is{' '}
+                <strong>克喵爱吃卤面</strong>.
               </p>
               <p>
-                I am a senior front-end engineer who have been involving in
-                front-end development since <strong>2018</strong>, focusing on
-                building aesthetically pleasing and highly interactive user
-                interfaces by <code>React</code>.
+                我是一个致力于分享资源和生活的普通大学牲~在 <strong>2024</strong>年初开始有这个想法,
+                更新不定时，不用iOS，所以不会特意找，有需求的可以通过下方的联系方式(最好是邮箱或电报),
+                我会尽力找，不保成功，兴趣来源<code>[好软分享](https://github.com/yoyodadada/haoruanfenxiang)</code>。
               </p>
               <p>
-                I have amassed substantial practical experience in the{' '}
-                <code>React</code> technology stack.
+                我从他/她的分享下解决了很多麻烦，十分感谢{' '}
+                <code>[好软分享](https://github.com/yoyodadada/haoruanfenxiang)</code>。
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>ls</TypedText>
