@@ -196,21 +196,20 @@ export default function Page() {
                 自动化学生一枚，分享资源纯兴趣，电气一方面可以找我问问（不保会/笑死）。
               </p>
             </TypedContent>
-            <TypedText>Contact</TypedText>
+            <TypedText>聊天方式</TypedText>
             <TypedContent>
               <div className='my-4 flex items-center'>
-                <p className='basis-1/4 text-center font-semibold'>Social</p>
+                <p className='basis-1/4 text-center font-semibold'>社交</p>
                 <div className='grid flex-1 grid-cols-2 justify-items-start gap-2'>
-                  <a href='https://github.com/zhangyu1818'>Github</a>
-                  <a href='https://twitter.com/zhangyu1818'>Twitter</a>
-                  <a href='https://juejin.cn/user/4089838986339927'>掘金</a>
-                  <a href='https://dev.to/zhangyu1818'>Dev.to</a>
-                  <a href='https://medium.com/@zhangyu1818'>Medium</a>
+                  <a href='https://github.com/Kemaiojun'>Github</a>
+                  <a href='https://twitter.com/kemiaofx'>Twitter</a>
+                  <a href='https://t.me/KemiaoJun'>Telegram账号</a>
+                  <a href='https://t.me/kemiaofx_me'>Telegram频道</a>
                 </div>
               </div>
               <div className='flex items-center'>
-                <p className='basis-1/4 text-center font-semibold'>Email</p>
-                <a href='mailto:hey@zhangyu.dev'>hey@zhangyu.dev</a>
+                <p className='basis-1/4 text-center font-semibold'>邮箱</p>
+                <a href='mailto:aqwere123@163.com'>邮箱找我</a>
               </div>
             </TypedContent>
           </Typed>
