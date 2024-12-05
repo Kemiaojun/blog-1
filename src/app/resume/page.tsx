@@ -73,25 +73,19 @@ export default function Page() {
             <TypedText afterDelay={1000}>ls</TypedText>
             <TypedContent>
               <div className='grid grid-cols-2 gap-2 px-4 font-semibold text-sky-500'>
-                <span>opensource</span>
-                <span>projects</span>
-                <span>blog-info</span>
-                <span>experience</span>
-                <span>skills</span>
-                <span>contact</span>
+                <span>声明</span>
+                <span>项目</span>
+                <span>博客介绍</span>
+                <span>经历</span>
+                <span>技能</span>
+                <span>联系方式</span>
               </div>
             </TypedContent>
-            <TypedText afterDelay={700}>opensource</TypedText>
+            <TypedText afterDelay={700}>声明</TypedText>
             <TypedContent>
-              <p>
-                I am passionate about contributing to the open-source community,
-                having made multiple contributions to well-known projects such
-                as <code>Ant Design</code>.
-              </p>
-              <p>
-                Additionally, I have developed and maintained lots of
-                open-source projects, which have been successfully published on
-                npm and collectively garnered nearly <i>20,000</i> downloads.
+            <p>
+                我只搬运资源，作者注明禁止搬运的不搬，有作者后来不想分享了可以通过下方的联系方式来告知我，
+                看到会第一时间删除文件，付费资源作者授权的话会分享，作者那抽成，不论同不同意，还是感谢作者的支持。
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>projects</TypedText>
