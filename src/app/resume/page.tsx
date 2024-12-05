@@ -171,18 +171,16 @@ export default function Page() {
                 </li>
               </ul>
             </TypedContent>
-            <TypedText>blog-info</TypedText>
+            <TypedText>博客介绍</TypedText>
             <TypedContent>
-              <p>
-                I am keen on sharing knowledge as well as writing articles and
-                tutorials regularly, covering <code>JavaScript</code>,
-                <code>TypeScript</code>, <code>React</code> source-code,{' '}
-                <code>CSS</code>, and animation.
+            <p>
+                我曾经也会为搜索资源困难而难过，这个项目应运而生，包括<code>JAndroid</code>,
+                <code>Windows</code>, <code>AI</code>, <code>AI</code>, <code>iOS</code>,
+                <code>建站</code>, <code>工具</code>{' '}
+                <code>代码</code>,等等。
               </p>
               <p>
-                My articles have been read over <i>150,000</i> times.
-                Previously, I primarily wrote in Chinese, but currently, my goal
-                is to write articles in English.
+                我不定时更新博客文章，不代表主要发布在<code>电报</code>的所有内容，缺什么可以去<code>[频道](https://t.me/kemiaofx_me)</code>看！
               </p>
             </TypedContent>
             <TypedText>experience</TypedText>
