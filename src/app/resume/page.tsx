@@ -88,65 +88,86 @@ export default function Page() {
                 看到会第一时间删除文件，付费资源作者授权的话会分享，作者那抽成，不论同不同意，还是感谢作者的支持。
               </p>
             </TypedContent>
-            <TypedText afterDelay={1000}>projects</TypedText>
+            <TypedText afterDelay={1000}>项目</TypedText>
             <TypedContent>
-              <ul>
+            <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/react-markdown-toc'>
-                      react-markdown-toc
+                    <a href='https://github.com/Kemiaojun/kemiaofx'>
+                      Github分享资源项目
                     </a>
                   </strong>
                 </li>
-                <li>Generating a Table of Contents (TOC) from Markdown.</li>
+                <li>作者所有个人的网址和软件在网盘的位置。</li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/from-to'>
-                      from-to.js
+                    <a href='https://github.com/Kemiaojun/astropaper'>
+                      astro博客项目(未完善)
                     </a>
                   </strong>
                 </li>
-                <li>Transitioning from one value to another.</li>
+                <li>一个astro博客。</li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/react-server-only-context'>
-                      react-server-only-context
+                    <a href='https://github.com/Kemiaojun/BLOG'>
+                      NotionNext博客项目(未完善)
                     </a>
                   </strong>
                 </li>
                 <li>
-                  A straightforward alternative for using context within React
-                  Server Components.
-                </li>
-              </ul>
-              <ul>
-                <li>
-                  <strong>
-                    <a href='https://github.com/zhangyu1818/tw-styled'>
-                      tw-styled
-                    </a>
-                  </strong>
-                </li>
-                <li>
-                  Create Tailwind CSS-styled React components with ease using
-                  tw-styled.
+                  小白博客项目，正在完善中。
                 </li>
               </ul>
               <ul>
                 <li>
                   <strong>
-                    <a href='https://github.com/zhangyu1818/use-flip'>
-                      use-flip
+                    <a href='https://github.com/Kemiaojun/BBlog'>
+                      hexo博客项目(未完善)
                     </a>
                   </strong>
                 </li>
                 <li>
-                  Effortless FLIP animations with a React Hook for smoother
-                  transitions.
+                  anzhiyu大佬主题
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <strong>
+                    <a href='https://github.com/Kemiaojun/kemiaoTG'>
+                      TG资源站
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  一个和电报频道联动的博客
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <strong>
+                    <a href='https://github.com/Kemiaojun/Kemiaojun.github.io'>
+                      github简易博客项目(未完善)
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  随便玩玩
+                </li>
+              </ul>
+              <ul>
+                <li>
+                  <strong>
+                    <a href='https://github.com/lumianya/lumianya.github.io'>
+                      魔改hexo博客项目(未完善)
+                    </a>
+                  </strong>
+                </li>
+                <li>
+                  挺好用的。
                 </li>
               </ul>
             </TypedContent>
