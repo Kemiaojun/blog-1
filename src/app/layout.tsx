@@ -38,7 +38,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  applicationName: 'zhangyu.dev',
+  applicationName: '克喵的小站',
   authors: {
     name: '克喵爱吃卤面',
     url: 'https://github.com/Kemiaojun',
@@ -48,13 +48,13 @@ export const metadata: Metadata = {
     '一个分享资源和生活的普通人',
   generator: 'Next.js',
   keywords: [
-    'Front-end Development',
-    'React',
-    'JavaScript',
-    'TypeScript',
-    'CSS',
-    'Animation',
-    'Swift',
+    '资源',
+    '博客',
+    '工具',
+    '软件',
+    '网站',
+    '开源',
+    '免费',
   ],
   publisher: '克喵爱吃卤面',
   title: {
