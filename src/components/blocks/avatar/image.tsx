@@ -5,7 +5,7 @@ import { clsx } from 'clsx'
 import Image from 'next/image'
 
 import { useIsServer } from '@/hooks/useIsServer'
-import avatarImg from 'https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412041017187.jpeg'
+import avatarImg from '@/images/avatar.webp'
 
 export const AvatarImage = () => {
   const isServer = useIsServer()
