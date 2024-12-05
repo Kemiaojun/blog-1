@@ -63,11 +63,11 @@ export default function Page() {
               <p>
                 我是一个致力于分享资源和生活的普通大学牲~在 <strong>2024</strong>年初开始有这个想法,
                 更新不定时，不用iOS，所以不会特意找，有需求的可以通过下方的联系方式(最好是邮箱或电报),
-                我会尽力找，不保成功，兴趣来源<code>[好软分享](https://github.com/yoyodadada/haoruanfenxiang)</code>。
+                我会尽力找，不保成功，兴趣来源<code><a href='https://t.me/haoruanfenxiang'>好软分享</a></code>。
               </p>
               <p>
                 我从他/她的分享下解决了很多麻烦，十分感谢{' '}
-                <code>[好软分享](https://github.com/yoyodadada/haoruanfenxiang)</code>。
+                <code><a href='https://t.me/haoruanfenxiang'>好软分享</a></code>。
               </p>
             </TypedContent>
             <TypedText afterDelay={1000}>ls</TypedText>
