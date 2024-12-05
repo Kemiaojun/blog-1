@@ -180,7 +180,7 @@ export default function Page() {
                 <code>代码</code>,等等。
               </p>
               <p>
-                我不定时更新博客文章，不代表主要发布在<code>电报</code>的所有内容，缺什么可以去<code>[频道](https://t.me/kemiaofx_me)</code>看！
+                我不定时更新博客文章，不代表主要发布在<code>电报</code>的所有内容，缺什么可以去<code><a href='https://t.me/kemiaofx_me'>频道</a></code>看！
               </p>
             </TypedContent>
             <TypedText>经历</TypedText>
