@@ -40,12 +40,12 @@ export const viewport: Viewport = {
 export const metadata: Metadata = {
   applicationName: 'zhangyu.dev',
   authors: {
-    name: 'zhangyu1818',
-    url: 'https://github.com/zhangyu1818',
+    name: '克喵爱吃卤面',
+    url: 'https://github.com/Kemiaojun',
   },
   creator: 'zhangyu1818',
   description:
-    'Dive into front-end development with a focus on React, cutting-edge frameworks, JavaScript, TypeScript, Swift, Animation and more',
+    '一个分享资源和生活的普通人',
   generator: 'Next.js',
   keywords: [
     'Front-end Development',
@@ -56,10 +56,10 @@ export const metadata: Metadata = {
     'Animation',
     'Swift',
   ],
-  publisher: 'zhangyu1818',
+  publisher: '克喵爱吃卤面',
   title: {
-    absolute: 'zhangyu.dev',
-    template: '%s | zhangyu.dev',
+    absolute: '克喵的小站',
+    template: '%s | Ke Miao Blog',
   },
   verification: {
     google: 'ULSANpODFw1TULe1QTOUFT8z8QXPVIA1MRTMQL7PAbw',
@@ -75,31 +75,31 @@ export default function RootLayout({ children }) {
     >
       <head>
         <link
-          href='/icon/favicon-32x32.png'
+          href='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412050918517.ico'
           rel='icon'
           sizes='32x32'
           type='image/png'
         />
         <link
-          href='/icon/favicon-16x16.png'
+          href='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412030659788.ico'
           rel='icon'
           sizes='16x16'
           type='image/png'
         />
         <link
-          href='/icon/apple-touch-icon.png'
+          href='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412042213560.jpg'
           rel='apple-touch-icon'
           sizes='180x180'
         />
         <link href='/site.webmanifest' rel='manifest' />
         <link
-          href='/icon/android-chrome-192x192.png'
+          href='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412042213560.jpg'
           rel='icon'
           sizes='192x192'
           type='image/png'
         />
         <link
-          href='/icon/android-chrome-512x512.png'
+          href='https://jsd.onmicrosoft.cn/gh/Kemiaojun/images@main/img/202412042213560.jpg'
           rel='icon'
           sizes='512x512'
           type='image/png'
